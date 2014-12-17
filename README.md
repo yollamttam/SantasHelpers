@@ -1,4 +1,5 @@
-SantasHelpers
-=============
+This is the "Helping Santa's Helpers" Competition from FICO
+==========================================================
 
-Alan and You did some python
+Data and sample code were provided by Kaggle.
+
